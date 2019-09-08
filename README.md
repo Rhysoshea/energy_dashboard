@@ -2,7 +2,7 @@
 A repository to showcase the code used to create a locally hosted dashboard for the UK energy spot market
 [More information](https://medium.com/@rhysshea/my-first-solo-programming-project-db1f6c183c39)
 
-##Purpose
+## Purpose
 A simple project to build from the ground up and put to practice my recently acquired knowledge of Python and JavaScript into a practical example.
 
 I also wanted to work on something that I have a personal interest in and that I could showcase using data.
